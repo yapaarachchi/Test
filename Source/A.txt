@@ -1,0 +1,9 @@
+{ 
+    "title": "$$ Incident (Gayan)", 
+    "color": "orange", 
+    "favorite" : true, 
+    "pageType": "/Page", 
+    "projection": "IncidentReporting", 
+    "page": "IncidentsPage", 
+    "filter": "" 
+  }
